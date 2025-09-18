@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anshsachan421" target="blank"><img src="https://img.shields.io/twitter/follow/anshsachan421?logo=twitter&style=for-the-badge" alt="anshsachan421" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 Constantly learning
 
 - 📫 How to reach me **anshsachan421@gmail.com**
 
