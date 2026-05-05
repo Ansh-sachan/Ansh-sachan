@@ -1,29 +1,127 @@
-<h1 align="center">Hi 👋, I'm Ansh</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<!-- 🔥 Header -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-sachan&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-sachan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anshsachan421" target="blank"><img src="https://img.shields.io/twitter/follow/anshsachan421?logo=twitter&style=for-the-badge" alt="anshsachan421" /></a> </p>
-
-- 🌱 Constantly learning
-
-- 📫 How to reach me **anshsachan421@gmail.com**
-
-<img align="right" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" alt="loading.."></img>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anshsachan421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshsachan421" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansh-sachan-966700283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh sachan" height="30" width="40" /></a>
-<a href="https://instagram.com/
-code_hackofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshsachan421" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Codewithansh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev_ansh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=ANSH%20SACHAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- 🧠 Typing -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-sachan&show_icons=true&locale=en&layout=compact" alt="ansh-sachan" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Engineer+%7C+System+Builder;Building+Scalable+Products" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-sachan&show_icons=true&locale=en" alt="ansh-sachan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-sachan&" alt="ansh-sachan" /></p>
+## 🎮 Dev Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Ansh Sachan
+role: Full Stack + AI Developer
+experience: 2+ years
+
+focus:
+  - AI Systems (LLMs, RAG, Automation)
+  - Scalable Backend Architectures
+  - SaaS & Product Engineering
+
+currently_building:
+  - AI-powered platforms
+  - Real-world SaaS products
+```
+
+---
+
+# ⚙️ Skills & Tech Stack
+
+## 🎨 Frontend & UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,figma" />
+</p>
+
+---
+
+## ⚙️ Backend & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres" />
+</p>
+
+---
+
+## 🛠 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws" />
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+
+`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Vector DBs` • `n8n` • `Airtable`
+
+</p>
+
+---
+
+# 📊 GitHub Analytics (Updated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansh-sachan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ansh-sachan&theme=tokyonight&hide_border=true&background=0d1117" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh-sachan&theme=tokyonight" />
+</p>
+
+---
+
+# 🧩 Featured Work
+
+🚀 **TechEcho Platform**
+→ Scalable EdTech ecosystem
+
+🤖 **AI Outreach Engine**
+→ Increased conversion by **40%**
+
+⚡ **Neural Sync Engine**
+→ Real-time sync (<100ms latency)
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+<a href="mailto:anshsachan421@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail"/></a>
+<a href="https://linkedin.com/in/ansh-sachan-966700283"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/anshsachan421"><img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter"/></a>
+<a href="https://www.youtube.com/@anshsachan421"><img src="https://img.shields.io/badge/YouTube-0f172a?style=for-the-badge&logo=youtube"/></a>
+</p>
+
+---
+
+# ⚡ Philosophy
+
+> Build products that solve real problems — not just projects.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
+</p>
